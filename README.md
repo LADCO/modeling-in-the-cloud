@@ -5,5 +5,6 @@ Home page of the air quality modeling in the cloud workgroup.  See the workgroup
 # Resources
 
 * [Wiki](https://github.com/LADCO/modeling-in-the-cloud/wiki) - workgroup charter, membership, and meeting minutes
-* [Issues](https://github.com/LADCO/modeling-in-the-cloud/issues) - technical discussion forum on using the cloud for air quality modeling
+* [Issues](https://github.com/LADCO/modeling-in-the-cloud/issues) - support threads for using the cloud for air quality modeling
+* [Discussions](https://github.com/LADCO/modeling-in-the-cloud/discussions) - technical discussion forum on using the cloud for air quality modeling
 * Code Repository - source code and scripts for modeling and analysis in the cloud
